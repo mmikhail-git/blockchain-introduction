@@ -1,6 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
-* [Аннотация](annotation.md)
+* [Аннотация](README.md)
 * [Введение](introduction.md)
-
