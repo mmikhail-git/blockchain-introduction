@@ -2,4 +2,3 @@
 
 * [Аннотация](annotation.md)
 * [Введение](introduction.md)
-
